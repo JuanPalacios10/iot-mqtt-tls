@@ -37,7 +37,7 @@ SensorData data;  // Estructura para almacenar los datos de temperatura y humeda
 time_t hora;      // Timestamp de la hora actual
 
 /**
- * Configura el dispositivo para conectarse a la red WiFi y ajusta parametros IoT
+ * Configurar el dispositivo para conectarse a la red WiFi y ajusta parametros IoT
  */
 void setup() {
   Serial.begin(115200);     // Paso 1. Inicializa el puerto serie
