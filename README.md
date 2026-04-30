@@ -121,6 +121,6 @@ Los dispositivos suscritos recibirán la actualización automáticamente.
 └── platformio.ini    # Configuración PlatformIO
 ```
 
-## 📝 Licencia
+## 📝 Licencias
 
 Este proyecto está bajo la licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
