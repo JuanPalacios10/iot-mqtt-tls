@@ -58,7 +58,7 @@ Proyecto base para ESP32 con MQTT seguro (TLS), provisión Wi‑Fi por portal AP
 
    **Para reconfigurar**: mantén presionado el botón **BOOT (GPIO0)** durante 3+ segundos al encender.
 
-✅ **Listo**: el dispositivo se conecta a Wi‑Fi y MQTT. Las credenciales persisten tras actualizaciones OTA.
+✅ **Listo**: el dispositivo se conecta a Wi‑Fi y MQTT. Las credenciales persisten tras actualizaciones OTA
 
 ## 📦 Actualización OTA (opcional)
 
